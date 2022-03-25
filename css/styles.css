@@ -1,0 +1,102 @@
+
+body {
+
+    background-color:   #292841;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    text-shadow: 0px 2px 4px
+    rgba(0, 0, 0, 0.85);
+
+
+
+
+    
+}
+
+h1{
+    font-size: 10px;
+    font-style: normal;
+    font-family: 'COCOGOOSE', sans-serif;                                                  
+    text-shadow: 4px 4px 4px
+    rgba(0, 0, 0, 0.85);
+}
+h2{
+    font-family: 'COCOGOOSE';
+    
+
+                                                
+}
+h1, h2, h3, p, li, br{
+    
+    color: #EEEEEE;
+    margin: 20px;
+}
+
+
+hr {
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #6F6DC0;
+    border-width: 8px;
+    height: 0px;
+    width: 2%;
+}
+#mainborder{
+    margin: 20px;
+}
+
+img {
+    padding: 15px;
+    height: 400px;
+
+}
+p{
+    margin: 40px;
+}
+main{
+    background-color: #252438;
+    border-radius: 10px;
+}
+article{
+    background-color: #27263a;
+    margin: 20px;
+}
+ article li{
+    margin-left: 400px;
+}
+  iframe{
+      margin-left: 540px;
+  }
+  .rectangle{
+
+    border-style: solid;/*This changes everything*/
+    background-color: #40a45c;
+    border-radius: 5px;
+    width: 150px;
+    
+    border-width: 5px;
+    
+    border-color: #40a45c;
+    margin-top: -65px;
+    padding: 5px;   
+    height: 40px;
+
+    }
+    .rectangle2{
+
+        border-style: solid;/*This changes everything*/
+        background-color: #ed4245
+        ;
+        border-radius: 5px;
+        width: 200px;
+        
+        border-width: 5px;
+        
+        border-color: #ed4245;
+        margin-top: -70px;
+        margin-left: 618px;
+        padding: 10px;   
+        height: 40px;
+    
+    }
